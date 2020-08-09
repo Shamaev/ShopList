@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="name_purchase">Название покупки</string>
+    <string name="button_add">Добавить</string>
+    <string name="сlear">Очистить</string>
+    <string name="close">Отмена</string>
+    <string name="yes">Удалить</string>
+</resources>
